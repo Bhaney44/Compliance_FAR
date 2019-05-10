@@ -2,7 +2,7 @@
 
 Summary
 ---
-This repository contains code for Donald 1.0, an AI for Federal Acquisition Regulation compliance. Donald 1.0 is my initial draft of the code for the algorithm in my Article, Automated Source Selection & FAR Compliance, which has been selected for publication in the Summer 2019 issue of the Public Procurement Law Journal published by the American Bar Association with George Washington University Law School. The current version of the code is Donald 3.0. 
+This repository contains code for Donald 1.0, an AI for Federal Acquisition Regulation (FAR) compliance. Donald 1.0 is my initial draft of the code for the algorithm in my Article, Automated Source Selection & FAR Compliance, which has been selected for publication in the Summer 2019 issue of the Public Procurement Law Journal published by the American Bar Association with George Washington University Law School. The current version of the code is Donald 3.0. 
 
 Citation
 ---
