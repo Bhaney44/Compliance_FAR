@@ -6,7 +6,7 @@ This repository contains code for Donald 1.0, an AI for Federal Acquisition Regu
 
 Citation
 ---
-Automated Source Selection & FAR Compliance 48 Pub. Cont. L.J. __ (2019) (Forthcoming)https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261360.
+Automated Source Selection & FAR Compliance 48 Pub. Cont. L.J. __ (2019) (Forthcoming) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261360.
 
 Copyright
 ---
