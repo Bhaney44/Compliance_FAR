@@ -1,4 +1,4 @@
-# Donald, AI for Federal Acquisition Regulation Compliance
+# AI for Federal Acquisition Regulation Compliance
 
 Summary
 ---
