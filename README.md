@@ -6,7 +6,7 @@ This is my initial draft of the code for the algorithm in my Article, Automated 
 
 Citation
 ---
-Automated Source Selection & FAR Compliance 48 Pub. Cont. L.J. __ (2019) (Forthcoming) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261360.
+Automated Source Selection & FAR Compliance 48 Pub. Cont. L.J. 751 (2019). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3261360.
 
 Copyright
 ---
