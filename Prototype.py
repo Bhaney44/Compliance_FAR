@@ -1,3 +1,5 @@
+#Copyright Brian S. Haney 2020
+
 mydict = {'good':0.75, 'acceptable':0.5, 'outstanding': 1, 'unacceptable': 0, 'marginal': .25}
 
 # Widgets:
